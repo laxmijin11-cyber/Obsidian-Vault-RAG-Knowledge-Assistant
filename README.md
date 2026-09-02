@@ -43,7 +43,7 @@ Obsidian_RAG_Assistant/
 ├── .env                     # Google API Key (DO NOT push to GitHub)
 └── README.md                # Project documentation
 
-
+```
 🚀 How to Run
 1. Prerequisites
 Python 3.10+
