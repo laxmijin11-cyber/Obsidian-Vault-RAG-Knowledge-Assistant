@@ -66,10 +66,13 @@ pip install -r requirements.txt
 # 4. Configure API Key
 # Create a .env file in the root directory:
 # GOOGLE_API_KEY=your_key_here
+
 3. Run the Application
 bash
 python -m streamlit run app.py
-🧠 How It Works
+
+
+How It Works
 Ingestion: The load_vault() function reads all Markdown files in obsidian_notes.
 
 Chunking & Embedding: Text is split into manageable chunks and converted into vectors using Hugging Face.
