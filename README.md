@@ -1,6 +1,7 @@
-# Obsidian-Vault-RAG-Knowledge-Assistant
-
 # 📚 Obsidian Vault RAG Knowledge Assistant
+
+<img width="924" height="609" alt="image" src="https://github.com/user-attachments/assets/f5f75640-227c-41f1-8216-e8e3418557a8" />
+
 
 An intelligent **Retrieval-Augmented Generation (RAG)** assistant that interacts with your Markdown notes. 
 It doesn't just answer questions—it actively **creates and saves new structured notes** back into your vault, acting like an **AI Knowledge Manager**.
