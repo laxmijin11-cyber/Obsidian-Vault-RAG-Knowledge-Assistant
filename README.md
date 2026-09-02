@@ -46,30 +46,37 @@ Obsidian_RAG_Assistant/
 ```
 🚀 How to Run
 1. Prerequisites
+
 Python 3.10+
 
-A Google Gemini API Key (Free)
+Google Gemini API Key (Free)
 
 2. Setup
-bash
+
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Obsidian_RAG_Assistant.git
+
+git clone https://github.com/laxmijin11-cyber/Obsidian_RAG_Assistant.git
+
 cd Obsidian_RAG_Assistant
 
 # 2. Create and activate a virtual environment
 python -m venv venv
+
 .\venv\Scripts\activate  # On Windows
+
 source venv/bin/activate # On Mac/Linux
 
 # 3. Install dependencies
 pip install -r requirements.txt
 
 # 4. Configure API Key
+
 # Create a .env file in the root directory:
+
 # GOOGLE_API_KEY=your_key_here
 
 3. Run the Application
-bash
+
 python -m streamlit run app.py
 
 
