@@ -50,3 +50,43 @@ Obsidian-Vault-RAG-Knowledge-Assistant/
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Google API Key (DO NOT push to GitHub)
 └── README.md                # Project documentation
+```
+🚀 How to Run
+1. Prerequisites
+
+Python 3.10+
+
+A free Google Gemini API Key (from aistudio.google.com)
+
+2. Setup & Installation
+bash
+# 1. Clone the repository
+
+git clone https://github.com/laxmijin11-cyber/Obsidian-Vault-RAG-Knowledge-Assistant.git
+
+cd Obsidian-Vault-RAG-Knowledge-Assistant
+
+# 2. Create and activate a virtual environment
+
+python -m venv venv
+
+.\venv\Scripts\activate  # On Windows
+
+source venv/bin/activate # On Mac/Linux
+
+# 3. Install dependencies
+
+pip install -r requirements.txt
+
+# 4. Configure API Key
+
+# Create a .env file in the root directory and add:
+
+# GOOGLE_API_KEY=your_key_here
+
+3. Run the Application
+
+bash
+
+python -m streamlit run app.py
+
