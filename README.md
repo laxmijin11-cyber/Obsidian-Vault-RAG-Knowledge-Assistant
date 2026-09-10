@@ -1,19 +1,4 @@
-
-```
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f5f75640-227c-41f1-8216-e8e3418557a8" alt="Obsidian RAG Assistant Banner" width="100%"/>
-</p>
-
-<h1 align="center">📚 Obsidian Vault RAG Knowledge Assistant</h1>
-
-<p align="center">
-  <b>An intelligent AI Knowledge Manager that reads, retrieves, and writes your Markdown notes.</b>
-</p>
-
-<p align="center">
-  <i>Powered by Google Gemini | LangChain | FAISS | Streamlit</i>
-</p>
-```
+<img width="1881" height="850" alt="image" src="https://github.com/user-attachments/assets/5172f916-fd8f-4dac-b630-4eee7f8dba87" 
 
 ---
 
@@ -54,5 +39,20 @@ Obsidian-Vault-RAG-Knowledge-Assistant/
 ├── .env                     # Google API Key (DO NOT push to GitHub)
 └── README.md                # Project documentation
 ```
-<img width="1881" height="850" alt="image" src="https://github.com/user-attachments/assets/5172f916-fd8f-4dac-b630-4eee7f8dba87" />
 
+
+```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5f75640-227c-41f1-8216-e8e3418557a8" alt="Obsidian RAG Assistant Banner" width="100%"/>
+</p>
+
+<h1 align="center">📚 Obsidian Vault RAG Knowledge Assistant</h1>
+
+<p align="center">
+  <b>An intelligent AI Knowledge Manager that reads, retrieves, and writes your Markdown notes.</b>
+</p>
+
+<p align="center">
+  <i>Powered by Google Gemini | LangChain | FAISS | Streamlit</i>
+</p>
+```
