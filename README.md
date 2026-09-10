@@ -50,5 +50,6 @@ Obsidian-Vault-RAG-Knowledge-Assistant/
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Google API Key (DO NOT push to GitHub)
 └── README.md                # Project documentation
+```
 
 <img width="1881" height="850" alt="image" src="https://github.com/user-attachments/assets/daa50f02-7a09-43df-b825-20faf49919a2" />
