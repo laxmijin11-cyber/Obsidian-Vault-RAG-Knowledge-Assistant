@@ -1,3 +1,5 @@
+
+```
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5f75640-227c-41f1-8216-e8e3418557a8" alt="Obsidian RAG Assistant Banner" width="100%"/>
 </p>
@@ -11,6 +13,7 @@
 <p align="center">
   <i>Powered by Google Gemini | LangChain | FAISS | Streamlit</i>
 </p>
+```
 
 ---
 
